@@ -1,4 +1,3 @@
-<script>
 dataLayer = ({
 ‘event’: ‘ecommerce’,
     'transactionId': '8',
@@ -17,5 +16,5 @@ dataLayer = ({
         'quantity': 1
     }]
 });
-</script>
+
 
